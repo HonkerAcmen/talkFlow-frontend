@@ -1,7 +1,7 @@
 <template>
-  <div>
-    初始化
-  </div>
+  <n-button type="tertiary">
+    Tertiary
+  </n-button>
 </template>
 
 <script setup>
