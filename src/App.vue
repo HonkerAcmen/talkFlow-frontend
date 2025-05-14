@@ -1,5 +1,5 @@
 <template>
-  <n-button type="tertiary">
+  <n-button type="tertiary" class="btn">
     Tertiary
   </n-button>
 </template>
@@ -8,4 +8,8 @@
 
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.btn {
+  background-color: $basicColor;
+}
+</style>
