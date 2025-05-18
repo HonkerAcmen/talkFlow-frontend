@@ -11,7 +11,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "naive-ui": "^2.41.0",
+    "element-plus": "^2.9.10",
     "pinia": "^3.0.1",
     "sass": "^1.88.0",
     "unplugin-auto-import": "^19.2.0",

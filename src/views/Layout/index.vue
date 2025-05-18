@@ -1,7 +1,5 @@
 <template>
-  <div>
-    login<el-button>I am ElButton</el-button>
-  </div>
+  layout
 </template>
 
 <script setup>
