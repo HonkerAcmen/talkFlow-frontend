@@ -1,7 +1,23 @@
 @forward 'element-plus/theme-chalk/src/common/var.scss' with (
   $colors: (
     'primary': (
-      'base': green,
+      'base': #5935ce,
+    ),
+    'success': (
+      'base': #6bc99c,
+      // 带一点蓝调的绿色，和主色更协调
+    ),
+    'warning': (
+      'base': #f7b955,
+      // 柔和橙黄
+    ),
+    'danger': (
+      'base': #d94e5d,
+      // 紫调红，和主色接近
+    ),
+    'info': (
+      'base': #7a6ee6,
+      // 主色的明度变化，作为 info 色调更自然
     ),
   )
 );
